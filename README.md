@@ -269,7 +269,7 @@
           <img src="program/RANGGINANG.jpeg" alt="Produk 19">
           <h3>Produk 19</h3>
           <h3>RANGGINANG</h3>
-          <div class="price">Rp 19.000</div>
+          <div class="price">Rp 20.000</div>
           <a class="btn" href="https://wa.me/62895603268013?text=Halo,%20Saya%20Mau%20Beli%20Produk%20ini">Beli via WA</a>
         </div>
       </div>
