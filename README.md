@@ -41,7 +41,7 @@
           border-radius: 6px;
           box-shadow: 0 2px 8px rgba(0,0,0,0.1);
           margin: 15px;
-          width: 630px;
+          width: 400px;
           overflow: hidden;
           text-align: center;
           transition: transform 0.2s;
